@@ -11,6 +11,7 @@ Projects
 
 > Home Loan - Transformation from the traditional model to digital _Apr 2019 – Nov 2019_
 
+```
 Project descriptionNews: https://laodong.vn/kinh-te/trai-nghiem-doc-dao-tu-vay-mua-nha-cua-techcombank-774542.ldo
 
 The home Loan process is a very important process and is one of main business functions of the client.
@@ -43,9 +44,11 @@ Responsibilities:
 - Responsible for code reviews & writing testable code
 - Work on architectural issues: performance, security, system design,...
 - Automate deployment processes (CI/CD)
+```
 
 > Tokosmart _Aug 2018 – May 2019_
 
+```
 Project descriptionBuild 2B2 eCommerce application, transform traditional model to e-com platform.
 
 Roles: Team Lead, NodeJS developer
@@ -70,9 +73,11 @@ Responsibilities:
 - Daily meeting with Indonesian team.
 - Agile model
 - POC: 3k customers, MPV: 10k customers
+```
 
 > Mobile Application _Apr 2018 – Jun 2018_
 
+```
 Project descriptionPlatfrom: IoT (Telecom ecosystem)
 
 Location: Jakarta
@@ -87,9 +92,11 @@ Responsibilities
 
 - Agile development
 - MPV application
+```
 
 > Digital Banking, Mobile Banking App _May 2017 – Apr 2018_
 
+```
 Project descriptionBuild Digital Banking (Indonesian market)
 
 Roles: NodeJS developer
@@ -112,9 +119,11 @@ Tech:
 - Work with BA to get requirement from Business team.
 - Daily meeting with team member come from over the world.
 - 2018 Android: 1,000,000+
+```
 
 > IoT Platform _Dec 2015 – Nov 2016_
 
+```
 Project descriptionPlatform: IoT(Location Tracking as SASS)
 Location: Ho Chi Minh City
 Role: Web Developer
@@ -128,3 +137,4 @@ Tech:
 - Agile development
 - Learning a lot of new thing from IoT development
 - Work with customer from UAE/Singapore
+```
