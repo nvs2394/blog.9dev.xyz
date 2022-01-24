@@ -19,16 +19,16 @@ module.exports = {
             slug: `/blog`,
           },
           {
-            title: `Me`,
-            slug: `/me`,
-          },
-          {
             title: `Projects`,
             slug: `/project`,
           },
           {
             title: `Learning`,
             slug: `/learning`,
+          },
+          {
+            title: `Me`,
+            slug: `/me`,
           },
         ],
         externalLinks: [
