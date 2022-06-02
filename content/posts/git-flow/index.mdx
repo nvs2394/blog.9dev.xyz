@@ -1,0 +1,35 @@
+---
+title: Git flow
+date: 2022-01-01
+description: Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches
+tags:
+  - git
+  - git flow
+  - agile
+slug: "/git-flow"
+banner: ./git-flow.png
+---
+
+### Some key takeaways to know about Gitflow are:
+
+The workflow is great for a release-based software workflow.
+Gitflow offers a dedicated channel for hotfixes to production.
+
+
+### The overall flow of Gitflow is
+
+1. A develop branch is created from main
+
+2. A release branch is created from develop
+
+3. Feature branches are created from develop
+
+4. When a feature is complete it is merged into the develop branch
+
+5. When the release branch is done it is merged into develop and main
+
+6. If an issue in main is detected a hotfix branch is created from main
+
+7. Once the hotfix is complete it is merged to both develop and main
+
+Details https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
